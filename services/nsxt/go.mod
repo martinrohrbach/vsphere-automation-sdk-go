@@ -1,4 +1,4 @@
-module github.com/vmware/vsphere-automation-sdk-go/services/nsxt
+module github.com/martinrohrbach/vsphere-automation-sdk-go/services/nsxt
 
 go 1.13
 
